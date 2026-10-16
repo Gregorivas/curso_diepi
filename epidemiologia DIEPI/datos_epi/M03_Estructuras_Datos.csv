@@ -1,0 +1,101 @@
+ID,Provincia,Edad,Sexo,Inicio_Sintomas,Resultado_Lab,Diagnostico
+REG-0001,DN,33,M,2025-01-03,Positivo,Dengue
+REG-0002,La Altagracia,87,F,2025-06-22,Positivo,Leptospirosis
+REG-0003,Puerto Plata,49,M,2025-06-08,Positivo,Dengue
+REG-0004,Santo Domingo,70,F,2025-06-08,Pendiente,IRA Grave
+REG-0005,La Vega,31,M,2025-04-12,Pendiente,EDA
+REG-0006,La Altagracia,0,M,2025-05-16,Pendiente,IRA Grave
+REG-0007,DN,55,F,2025-03-25,Positivo,EDA
+REG-0008,San Cristóbal,8,F,2025-01-04,Negativo,IRA Grave
+REG-0009,Puerto Plata,60,M,2025-04-14,Positivo,IRA Grave
+REG-0010,Santo Domingo,39,M,2025-04-23,Pendiente,IRA Grave
+REG-0011,Puerto Plata,13,F,2025-03-09,Positivo,Influenza
+REG-0012,La Altagracia,36,M,2025-03-24,Pendiente,COVID-19
+REG-0013,Santo Domingo,73,M,2025-06-08,Negativo,EDA
+REG-0014,Santiago,25,F,2025-01-07,Pendiente,EDA
+REG-0015,San Cristóbal,80,F,2025-06-23,Pendiente,IRA Grave
+REG-0016,Santiago,34,M,2025-02-11,Pendiente,Leptospirosis
+REG-0017,Santo Domingo,74,M,2025-06-08,Negativo,Leptospirosis
+REG-0018,La Altagracia,65,M,2025-04-07,Positivo,Leptospirosis
+REG-0019,Santiago,82,F,2025-06-16,Negativo,IRA Grave
+REG-0020,La Altagracia,12,F,2025-05-22,Positivo,Influenza
+REG-0021,San Cristóbal,11,F,2025-01-27,Pendiente,IRA Grave
+REG-0022,San Cristóbal,45,M,2025-04-04,Negativo,Chikungunya
+REG-0023,San Cristóbal,20,F,2025-05-18,Negativo,Dengue
+REG-0024,Puerto Plata,1,F,2025-04-27,Negativo,Dengue
+REG-0025,Santo Domingo,50,M,2025-02-11,Pendiente,EDA
+REG-0026,Santo Domingo,7,M,2025-02-26,Positivo,IRA Grave
+REG-0027,Puerto Plata,31,F,2025-02-17,Pendiente,IRA Grave
+REG-0028,Puerto Plata,40,M,2025-01-15,Positivo,Leptospirosis
+REG-0029,Santo Domingo,58,M,2025-05-31,Pendiente,COVID-19
+REG-0030,Santiago,2,M,2025-03-04,Positivo,COVID-19
+REG-0031,Puerto Plata,20,F,2025-02-18,Pendiente,EDA
+REG-0032,La Vega,39,F,2025-03-02,Negativo,EDA
+REG-0033,San Cristóbal,58,F,2025-05-10,Pendiente,COVID-19
+REG-0034,La Altagracia,64,M,2025-04-14,Negativo,EDA
+REG-0035,San Cristóbal,57,F,2024-12-27,Positivo,EDA
+REG-0036,San Cristóbal,89,F,2025-04-14,Positivo,EDA
+REG-0037,DN,33,M,2025-02-27,Pendiente,Influenza
+REG-0038,La Vega,21,F,2025-04-20,Positivo,COVID-19
+REG-0039,Santiago,49,F,2025-02-26,Negativo,Leptospirosis
+REG-0040,San Cristóbal,37,F,2025-02-13,Positivo,Dengue
+REG-0041,Santiago,48,M,2025-03-05,Positivo,EDA
+REG-0042,La Altagracia,52,M,2025-03-21,Pendiente,COVID-19
+REG-0043,Santo Domingo,4,F,2025-01-08,Pendiente,IRA Grave
+REG-0044,Puerto Plata,54,F,2025-03-27,Positivo,COVID-19
+REG-0045,La Vega,75,M,2025-02-01,Pendiente,COVID-19
+REG-0046,Santo Domingo,57,F,2025-04-21,Pendiente,COVID-19
+REG-0047,San Cristóbal,3,F,2025-06-23,Negativo,EDA
+REG-0048,La Vega,30,F,2025-05-06,Negativo,EDA
+REG-0049,La Vega,55,M,2025-01-03,Pendiente,Dengue
+REG-0050,La Vega,67,F,2025-01-04,Negativo,COVID-19
+REG-0051,Puerto Plata,83,M,2025-06-02,Pendiente,COVID-19
+REG-0052,La Altagracia,85,F,2025-05-25,Pendiente,Dengue
+REG-0053,San Cristóbal,22,M,2025-02-22,Pendiente,Dengue
+REG-0054,Santiago,0,M,2025-03-30,Negativo,Leptospirosis
+REG-0055,Santo Domingo,38,M,2025-05-26,Positivo,Chikungunya
+REG-0056,Santo Domingo,60,M,2025-06-12,Positivo,EDA
+REG-0057,Puerto Plata,26,F,2025-01-11,Pendiente,Chikungunya
+REG-0058,Puerto Plata,87,F,2025-01-22,Positivo,IRA Grave
+REG-0059,San Cristóbal,52,M,2025-05-29,Positivo,Dengue
+REG-0060,La Vega,13,M,2025-05-15,Positivo,Influenza
+REG-0061,Santo Domingo,26,F,2025-05-13,Pendiente,IRA Grave
+REG-0062,DN,2,F,2025-05-04,Positivo,COVID-19
+REG-0063,San Cristóbal,84,M,2025-03-17,Positivo,IRA Grave
+REG-0064,DN,17,F,2025-06-11,Negativo,Dengue
+REG-0065,DN,49,M,2025-04-25,Pendiente,EDA
+REG-0066,San Cristóbal,69,F,2025-01-12,Pendiente,IRA Grave
+REG-0067,DN,26,F,2025-02-27,Positivo,IRA Grave
+REG-0068,Puerto Plata,15,F,2025-02-19,Negativo,COVID-19
+REG-0069,San Cristóbal,52,F,2025-03-31,Negativo,IRA Grave
+REG-0070,La Altagracia,39,F,2025-05-01,Positivo,EDA
+REG-0071,Santo Domingo,68,F,2025-05-29,Negativo,Dengue
+REG-0072,Santiago,7,F,2025-01-15,Positivo,IRA Grave
+REG-0073,San Cristóbal,66,F,2025-04-07,Pendiente,Dengue
+REG-0074,DN,20,F,2025-04-02,Pendiente,Influenza
+REG-0075,DN,64,F,2025-04-25,Negativo,Chikungunya
+REG-0076,Santiago,10,M,2025-04-16,Negativo,Influenza
+REG-0077,Santiago,47,M,2025-04-11,Negativo,Dengue
+REG-0078,Santiago,56,M,2025-01-12,Negativo,COVID-19
+REG-0079,La Altagracia,21,F,2025-05-11,Pendiente,Dengue
+REG-0080,Santiago,83,M,2025-03-26,Pendiente,Influenza
+REG-0081,Santo Domingo,14,M,2025-04-30,Pendiente,Dengue
+REG-0082,Santo Domingo,47,F,2025-02-12,Pendiente,Chikungunya
+REG-0083,Santiago,7,F,2024-12-31,Negativo,Leptospirosis
+REG-0084,San Cristóbal,54,F,2025-03-02,Positivo,IRA Grave
+REG-0085,Santiago,18,F,2025-01-16,Pendiente,COVID-19
+REG-0086,La Vega,59,F,2025-03-29,Negativo,COVID-19
+REG-0087,La Altagracia,57,M,2025-05-23,Pendiente,IRA Grave
+REG-0088,Santo Domingo,6,F,2025-02-08,Pendiente,Leptospirosis
+REG-0089,DN,36,M,2025-04-28,Positivo,Leptospirosis
+REG-0090,Santiago,46,M,2025-01-10,Positivo,COVID-19
+REG-0091,La Vega,9,M,2025-01-24,Pendiente,COVID-19
+REG-0092,La Altagracia,55,F,2025-03-23,Negativo,IRA Grave
+REG-0093,Santo Domingo,12,M,2025-03-02,Pendiente,COVID-19
+REG-0094,DN,90,F,2025-05-20,Positivo,COVID-19
+REG-0095,Santiago,52,F,2025-03-19,Pendiente,COVID-19
+REG-0096,La Vega,75,F,2025-05-29,Pendiente,Malaria
+REG-0097,La Altagracia,57,M,2025-02-19,Pendiente,EDA
+REG-0098,DN,11,M,2025-03-02,Pendiente,Dengue
+REG-0099,Puerto Plata,57,F,2025-02-07,Pendiente,Dengue
+REG-0100,Puerto Plata,45,F,2025-01-14,Negativo,Chikungunya
